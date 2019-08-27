@@ -1,5 +1,10 @@
 Test Case ID,Test Step,Window,Data Fields ,Data Values,Action,Condition,Browser,Field Name,Comments
 21212121,1,E-Commerce URL,dt:eCommerceURL#1,,OPENURL,,common,Wait for home page,
+21212121,2,Capture Screen,,21212121_Step2,CAPTURESCREEN,,common,Capture current Screen and save,
+21212121,2,Capture Screen,,21212121_Step2,CAPTURESCREEN,,common,Capture current Screen and save,
+21212121,2,Capture Screen,,21212121_Step2,CAPTURESCREEN,,common,Capture current Screen and save,
+21212121,2,Capture Screen,,21212121_Step2,CAPTURESCREEN,,common,Capture current Screen and save,
+21212121,2,Capture Screen,,21212121_Step2,CAPTURESCREEN,,common,Capture current Screen and save,
 ,,,,,, ,,,
 176142,1,E-Commerce URL,dt:eCommerceURL#1,,OPENURL,,common,Wait for home page,
 176142,2,Register Your kit,,registerYourKit,EXECUTETESTCASE,,common,Call registerYourKit function,
